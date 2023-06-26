@@ -1,0 +1,35 @@
+.top{
+ 
+    width: 500px;
+    height: 420px;
+    text-align: center;
+    box-shadow: 5px 10px rgb(188, 206, 191);
+    background-color: rgb(219, 234, 244);
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+ 
+}
+.main{
+    
+    height: 500px;
+}
+.btn{
+    font-size: large;
+   
+    outline: none;
+  
+}
+.form{
+    margin-top: 35px;
+    font-size: 25px;
+
+    
+}
+input{
+    border-radius: 13px;
+   border: none;
+   
+}
+label{
+    margin-right: 23px;
+}
